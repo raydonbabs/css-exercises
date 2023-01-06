@@ -10,3 +10,12 @@
     font-size: 28px;
     font-family: Helvetica,"Times New Roman", sans-serif;
 }
+/*Instead of using a third class, just use .one and .two.
+This eliminates the need for the .click class.
+As a result,
+.one,
+.two{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
+would be more appropriate. 
